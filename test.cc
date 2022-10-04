@@ -1,11 +1,11 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
 
-int ()
-{
-    int x =5;
-    int y =6;
+int main() {
+int x = 5;
+int y = 6;
+int sum = x + y;
+cout << sum;
 
-    int sum = x +y;
-    cout << sum;
-}
+return 0;
+}   
